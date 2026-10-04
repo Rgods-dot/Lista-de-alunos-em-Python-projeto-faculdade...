@@ -1,2 +1,6 @@
 # Lista-de-alunos-em-Python-projeto-faculdade...
 Sistema interativo em Python para gestão e cadastro de alunos via terminal. Permite adicionar, listar, procurar e remover registos, além de calcular a média geral das notas...
+
+# Aluno: Ronaldo Gabriel
+
+# Matrícula: 01890560
