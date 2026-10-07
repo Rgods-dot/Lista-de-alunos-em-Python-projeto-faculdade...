@@ -2,5 +2,7 @@
 Sistema interativo em Python para gestão e cadastro de alunos via terminal. Permite adicionar, listar, procurar e remover registos, além de calcular a média geral das notas...
 
 Aluno: Ronaldo Gabriel - Matrícula: 01890560
+
 Aluno: Rafael Ferreira - Matrícula: 01894554
+
 Aluno: Vinícius Ribeiro - Matrícula: 01877655
